@@ -1,0 +1,4 @@
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex05\bin\Debug\Ex05.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex05\bin\Debug\Ex05.pdb
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex05\obj\Debug\Ex05.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex05\obj\Debug\Ex05.pdb
