@@ -1,0 +1,5 @@
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex07\obj\Debug\Ex07.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex07\bin\Debug\Ex07.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex07\bin\Debug\Ex07.pdb
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex07\obj\Debug\Ex07.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex07\obj\Debug\Ex07.pdb

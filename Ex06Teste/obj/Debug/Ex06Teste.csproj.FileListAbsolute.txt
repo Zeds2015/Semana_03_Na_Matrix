@@ -1,0 +1,8 @@
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\bin\Debug\Ex06Teste.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\bin\Debug\Ex06Teste.pdb
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\obj\Debug\Ex06Teste.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\obj\Debug\Ex06Teste.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\obj\Debug\Ex06Teste.pdb
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\bin\Debug\Ex06.dll
+C:\Users\Mateus\Desktop\C#\Exercicio01\Ex06Teste\bin\Debug\Ex06.pdb
